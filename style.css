@@ -1,0 +1,43 @@
+@charset 'utf-8';
+.img-responsive{
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+body{
+	background-color: #d2faf9;
+}
+.table1 {
+	margin: 10px; padding: 10px
+}
+
+.table1{
+	margin: 10px; padding: 10px
+}
+
+a:hover{color:#006400; background:#ffffe0;}
+
+a:active {color:#006400;}
+
+#page-title{
+	color: #0800ff;
+	font-size:6ex;
+}
+
+p{
+	line-height: 20px; padding: 14px;
+	text-align: start;
+}
+
+li{
+	font-weight: 800;
+}
+
+.table2{
+	border: double 4px #00aeff;
+}
+
+.table3{
+	margin: 30px 30px;
+	border :medium dashed #197035;
+}
